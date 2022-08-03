@@ -1,0 +1,127 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+#legenda {
+    padding-top: 10px;
+    font-size: 10px;
+    color: #555555;
+    font-weight: lighter;
+    text-align: left;
+}
+
+div.libertadores   {
+    background: #003366;
+    width: 10px;
+    height: 10px;
+    display: inline-block;
+        }
+
+div.preliberta   {
+    background: #1398Be;
+    width: 10px;
+    height: 10px;
+    display: inline-block;
+    }
+
+div.sulamer   {
+    background: #de9800;
+    width: 10px;
+    height: 10px;
+    display: inline-block;
+            }
+
+div.reba  {
+    background: #c91b04;
+    width: 10px;
+    height: 10px;
+    display: inline-block;
+        }
+
+table {
+    width: 50%;
+    border-collapse: collapse; 
+}
+
+tr {
+    border-top: 1px solid #dddddd;
+    border-right: 1px solid #dddddd;
+    border-bottom: 1px solid #dddddd;
+    border-left: 1px solid #dddddd;
+}
+
+
+
+.posicao {
+    color: #003366;
+    font-size: 18px;
+    font-weight: bolder;
+    text-align: center;
+    
+}
+
+.rebai, .liberta {
+    border-bottom: 2px solid #cccccc;
+}
+
+.posicao4 {
+    color:#1398be;
+    font-size: 18px;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.posicao5 {
+    color: #de9800;
+    font-size: 18px;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.posicao13 {
+    color: #cccccc;
+    font-size: 18px;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.posicao17 {
+    color:#c91b04;
+    font-size: 18px;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.a3{
+    font-size: 13px;
+    color: #999999;
+    text-align: center;
+    font-weight: bolder;
+}
+
+.times {
+    font-size: 14px;
+    color: #666666;
+    text-align: left;
+    font-weight: bolder;
+}
+
+.pontos {
+    font-size: 14px;
+    color: black;
+    text-align: center;
+    font-weight: bolder;
+    width: 6%;
+}
+
+.a1, .a, .a2 {
+    font-size: 14px;
+    color: #666666;
+    text-align: center;
+    width: 6%;
+   }
+
+.pontos, .a1, .a2 {
+    background-color: #F7F7F7;
+}
